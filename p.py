@@ -43,7 +43,7 @@ for category in categories:
 bar_chart.x_labels = data['Subcategory']
 
 # 保存为 SVG 文件
-bar_chart.render_to_file('fruits_and_vegetables_count.svg')
+bar_chart.render_to_file('p.svg')
 
 # 如果在 Jupyter Notebook 中运行，可以使用以下代码显示：
 # from IPython.display import display, SVG

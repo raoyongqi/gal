@@ -29,4 +29,4 @@ bar_chart.add('COMMMM', data['Count'])
 bar_chart.x_labels =data['Subcategory']
 # 渲染图表到文件
 
-bar_chart.render_to_file('simple_bar_chart.svg')
+bar_chart.render_to_file('p2.svg')
